@@ -1,3 +1,5 @@
+# Comandos Úteis para o GIT
+
 git diff -> te mostra a mudança que você fez
 
 git add NomeDoArquivo -> adiciona a mudança ao arquivo
